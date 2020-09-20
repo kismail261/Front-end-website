@@ -1,0 +1,75 @@
+body{
+	margin:0;
+	padding:0;
+}
+.main-con{
+	width:650px;
+	height:1354px;
+	margin:0 auto;
+	border:5px solid #5F0A0B;
+    padding: 15px;
+}
+.container{
+	width: 664;
+	margin: 0 auto;
+}
+
+.add{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	
+	text-align: right ;
+	width: 60%;
+	margin: 0px;
+	
+	
+}
+.add span{
+	font-weight: :bold;
+	float: left;
+	text-align: right;
+	width: 100px;
+}
+.add a{
+	color:green;
+	text-decoration: none;
+}
+.logo{
+	width: 100%;
+	float:left;
+}
+.header-bottom{
+	width: 
+}
+.banner img{
+	    width: 650px;
+
+}
+.fb{
+	width: 30px;
+}
+.left{
+	width: 400px;
+	float: left;
+	padding-right: 26px;
+}
+.left h2{
+	font-family:georgia;
+	font-size: 25px;
+	color: red;
+	margin: 0px;
+	
+}
+.content{
+	float: left;
+	position: relative;
+	
+	padding-bottom: 20px;
+}
+.left img{
+	margin: 15px 0;
+}
+.bos p{
+	text-align: -webkit-match-parent;
+	padding-left: 30px;
+}

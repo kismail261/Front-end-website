@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>This is a form</title>
+<h2>contact us</h2>
+Name:<input type="text" name="name" placeholder="Enter the name" maxlenght="15" size="30"/> <br><br>
+Password:<input type="password" name="password" placeholder="Enter the password here" maxlenght="10" size="20"/> <br><br>
+Message:<textarea type="textarea"  name="textarea" cols="30" rows="20"/></textarea><br><br>
+<input type="submit" name="submit" value="send message"/>
+<input type="reset" name="reset" value="reset"/>
+<h3>checkbox</h3>
+<input type="checkbox" name="skills" value="a">HTML<br><br>
+<input type="checkbox" name="skills" value="b">CSS<br><br>
+<input type="checkbox" name="skills" value="c">PHP<br><br>
+<h3>Radio buttons</h3>
+<input type="radio" name="gender" value="male">Male<br><br>
+<input type="radio" name="gender" value="female">female<br><br>
+<h3>Select boxes</h3>
+<select name="days" multiple="multiple">
+<option value="mon">monday</option>
+<option value="mon">tueday</option>
+<option value="mon">wenesday</option>
+<option value="mon">thursday</option>
+<option value="mon">friday</option>
+<option value="mon">satursday</option>
+<option value="mon">sunday</option>
+</select>
+
+</form>
+</head>
+</html>
